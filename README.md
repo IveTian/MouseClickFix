@@ -4,7 +4,7 @@
 
 ### 截图
 
-![运行效果](D:\project\mouseClickFix\MouseClickFix\docs\运行效果.png)
+![运行效果](docs\运行效果.png)
 
 ### License
 
